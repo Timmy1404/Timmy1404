@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Timmy1404
+- 👋 Hi, I’m @TimothyPearman
 - 👀 I’m interested in Arduino and ESP32
-- 🌱 I’m currently learning Python, C++, HTML, CSS, JS
+- 🌱 I’m currently learning Python, C#, C++, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me, dont
 - 😄 Pronouns: He/Him
